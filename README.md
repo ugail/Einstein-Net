@@ -19,16 +19,16 @@ Notebook: Einstein\_Net\_Modelling\_Black\_Holes\_using\_Error-Bounded\_Neural\_
 
 
 
-```
+
 
 ## Installation
 
-```
+
 git clone https://github.com/ugail/Einstein-Net.git
 cd Einstein-Net
 pip install -e .
 python -m pytest tests
-```
+
 
 Python 3.10 or later with PyTorch (CPU is sufficient), NumPy, SciPy, Matplotlib, PyAMG and Numba.
 Each paper folder also provides a self-contained notebook that runs on Google Colab without
@@ -42,13 +42,9 @@ runs are deterministic from their seeds, and the commands are listed in that fol
 
 ## Citing
 
-
-
 1. H. Ugail, Einstein-Net: Modelling Black Holes using Error-Bounded Neural Networks, 2026, Under Review
 
 
-
-## 
 
 ## Licence
 
