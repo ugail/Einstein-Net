@@ -7,6 +7,8 @@ that a network should not be asked to learn what the equations already dictate. 
 coordinate-invariant, and every output comes with an estimate, and where possible a proof, of how
 far it can be trusted. 
 
+<img width="3389" height="2389" alt="Figure7" src="https://github.com/user-attachments/assets/80e8040a-08c4-43c9-bc3d-eb2ffaafc5b9" />
+
 
 
 Sub-projects:
