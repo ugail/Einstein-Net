@@ -20,22 +20,6 @@ Einstein-Net: Modelling Black Holes using Error-Bounded Neural Networks
 Notebook: Einstein\_Net\_Modelling\_Black\_Holes\_using\_Error-Bounded\_Neural\_Networks.ipynb
 
 
-
-
-
-## Installation
-
-
-git clone https://github.com/ugail/Einstein-Net.git
-cd Einstein-Net
-pip install -e .
-python -m pytest tests
-
-
-Python 3.10 or later with PyTorch (CPU is sufficient), NumPy, SciPy, Matplotlib, PyAMG and Numba.
-Each paper folder also provides a self-contained notebook that runs on Google Colab without
-installing anything.
-
 ## Reproducibility
 
 Every paper folder contains the executed notebooks, the scripts that produced the trained weights
